@@ -1,3 +1,3 @@
 def hello(name);
     print("hello" + name)
-call
+call (hello)
